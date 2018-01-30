@@ -77,8 +77,8 @@ button {
 
 /* Scoreboard */
 
-.tries {
-  background-image: url('/liveHeart.png');
+.scoreboard {
+  background-image: url("images/liveHeart.png");
 }
 
 /* Phrase */
